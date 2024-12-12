@@ -7,10 +7,10 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### GitHub foydalanuvchi nomini <username> bilan almashtiring ###
+  ### GitHub foydalanuvchi nomini Alisher bilan almashtiring ###
   ###############################################
-  DOCKER_IMAGE_NAME: <username>-azure-ttt
-  AZURE_WEBAPP_NAME: <username>-ttt-app
+  DOCKER_IMAGE_NAME: Alisher-azure-ttt
+  AZURE_WEBAPP_NAME: Alisher-ttt-app
   ###############################################
 
 jobs:
